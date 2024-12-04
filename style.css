@@ -91,6 +91,9 @@ video {
     margin-bottom: 10px;
 }
 
+.link-assistir:hover {
+    opacity: .8;
+}
 
 
 
