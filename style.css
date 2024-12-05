@@ -27,7 +27,7 @@ ul {
 }
 
 .img-topo {
-    height: 25px;
+    height: 30px;
     margin-top: 25px;
 
 }
@@ -97,6 +97,9 @@ video {
     opacity: .8;
 }
 
+.link-info:hover {
+    opacity: .4;
+}
 
 
 
